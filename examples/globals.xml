@@ -12,8 +12,8 @@
     <subjects>
         <int name="hours" value="17"/>
         <int name="mins" value="45"/>
-        <int name="bluetooth_on" value="0"/>
-        <int name="wifi_on" value="0"/>
-        <int name="notification_on" value="0"/>
+        <int name="bluetooth_on" value="1"/>
+        <int name="wifi_on" value="1"/>
+        <int name="notification_on" value="1"/>
     </subjects>
 </globals>
